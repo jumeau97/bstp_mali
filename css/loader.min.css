@@ -16,7 +16,7 @@
 	vertical-align: top;
 	display: inline-block;
 	width: 100%;
-	background-color: rgb(210,30,42);
+	background-color: #006481;
 	animation: cssload-loader-inner 2.3s infinite ease-in;
 		-o-animation: cssload-loader-inner 2.3s infinite ease-in;
 		-ms-animation: cssload-loader-inner 2.3s infinite ease-in;
